@@ -1,0 +1,8 @@
+title: Fauverism.github.com
+description: The blog of Robert Fauver
+google_analytics: UA-8138255-6
+show_downloads: true
+theme: jekyll-theme-modernist
+
+gems:
+  - jekyll-mentions
